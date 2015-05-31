@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>VHXXmap0001.ac</path>
+<animation>
+  <object-name>surface</object-name>
+  <enable-hot type="bool">false</enable-hot>
+</animation>
+
+</PropertyList>
