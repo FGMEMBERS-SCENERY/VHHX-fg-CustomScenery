@@ -11,4 +11,17 @@
         <inherits-from>Effects/road-high</inherits-from>
         <object-name>VHXXroads0201</object-name>
 </effect>
+
+<!--
+
+<animation>
+  <type>material</type> 
+  <object-name>VHXXroads0201</object-name>
+  <emission>	
+    <red>0.5</red>
+    <green>0.3</green>
+    <blue>0</blue>
+  </emission>
+</animation>
+-->        
 </PropertyList>
