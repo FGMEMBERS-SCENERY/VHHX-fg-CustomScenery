@@ -5,7 +5,7 @@ OBJECT world
 kids 1
 OBJECT poly
 name "VHXXroads0200"
-texture "tex/roads.png"
+texture "Textures/osm2city/VHXX/roads.png"
 numvert 21934
 -2159.52 88.71 1616.46
 -2130.04 89.21 1588.94

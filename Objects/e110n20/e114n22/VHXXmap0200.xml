@@ -3,6 +3,7 @@
 <path>VHXXmap0200.ac</path>
 <animation>
   <object-name>surface</object-name>
+
   <enable-hot type="bool">false</enable-hot>
   <type>select</type>
   <condition>
